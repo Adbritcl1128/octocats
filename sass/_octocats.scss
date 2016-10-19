@@ -1,0 +1,53 @@
+header {
+  background-color: #D3D3D3;
+}
+
+.main-cat {
+  border: 2px solid $maincolor;
+  width: $octocatwidth;
+
+}
+
+nav {
+  text-align: right;
+  background-color: #D3D3D3;
+}
+
+.octodex {
+  list-style: none;
+}
+
+.icon {
+  width: 20px;
+  border: 1px solid $maincolor;
+  float: right;
+  position: relative;
+  bottom: 80px;
+}
+
+li.octocat {
+  width: $octocatwidth;
+}
+
+h3 {
+  position: relative;
+  bottom: 20px;
+}
+
+ul {
+display: inline;
+position: relative;
+
+}
+
+a {
+  position: relative;
+
+}
+
+section {
+  position: relative;
+  float: left;
+  margin-left: 5%;
+
+}
